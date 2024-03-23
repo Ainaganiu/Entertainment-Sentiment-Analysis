@@ -7,3 +7,5 @@ Sentiment Analysis refers to identifying and categorizing the emotions represent
 
 For this project we will be using CRISP-DM (Cross-Industry Standard Process for Data Mining) model, let's go through the project steps and then I'll provide a sample report summarizing the project.
 
+Click on the link below to check the project codes in a markdown file
+[Code File](https://github.com/Ainaganiu/Entertainment-Sentiment-Analysis/blob/main/twiter_sentiment.ipynb)
